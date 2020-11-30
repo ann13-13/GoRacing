@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_pccar" type="id" />
+    <item name="iv_usercar" type="id" />
+    <item name="iv_finishline" type="id" />
+    <item name="tv_timer" type="id" />
+    <item name="tv_semafor" type="id" />
+</resources>
